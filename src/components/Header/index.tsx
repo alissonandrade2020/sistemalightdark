@@ -14,7 +14,8 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
 
   return (
     <Container>
-      Light e Dark
+      Light e Dark 
+      Github <a href="https://github.com/alissonandrade2020/">Alisson de Andrade Araújo</a>
 
       <Switch
         onChange={toggleTheme}

@@ -14,10 +14,10 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
 
   return (
     <Container>
-      Light e Dark 
+     <strong>Light e Dark</strong>
 
     
-      <strong><br></br><br></br>Alisson Andrade</strong>
+      <strong>Alisson Andrade</strong>
         <p><a href="https://github.com/alissonandrade2020"><b>Acesse o Github</b></a></p>
                <p><a href="https://app.rocketseat.com.br/me/alissondeandradearaujo"><b>Acesse o Perfil - Rocketseat</b></a></p>
   
